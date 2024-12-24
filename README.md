@@ -25,4 +25,4 @@ shipingquzimu/
 - utils/: 通用工具函数
 - tests/: 单元测试和集成测试
 - temp/: 存放处理过程中的临时文件
-- output/: 存放处理完成的视频文件 
+- output/: 存放处理完成的视频文件
